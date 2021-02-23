@@ -1,0 +1,28 @@
+一、.明确需求
+1.数据库实验环境以及主要技术论述   ······完成(1)与(6)
+(1)实验环境
+操作系统： windows10
+软件环境： jdk1.8+tomcat?+sqlserver+vue+webpack
+开发环境：IntelliJ-IDEA+SSMS
+(2)主要技术论述
+maven --包管理， 
+git --版本控制， 
+sqlserver --数据库，
+java --进行前端与数据库的交互，实现所需业务
+JDBC --java与数据库连接，
+tomcat --开源servlet容器
+spring-framework --基于IOC与AOP的系统框架， 
+spring-boot --自动配置
+html、css、JavaScript --页面设计与脚本控制
+vue --前端渐进式框架
+
+2.系统功能结构图
+
+3.基本表与索引定义
+基本表：
+...
+索引：
+...
+
+4.系统安全性设计
+思考：(1)系统安全性设计有哪些？
